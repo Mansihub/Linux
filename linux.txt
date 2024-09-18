@@ -1,0 +1,21 @@
+Working with Directories 
+
+Working with Files
+
+Working with File Content 
+
+System Information  
+
+ Linux Package Manager
+
+Text Editor
+
+Some points:
+
+cat command is used to display the content of a file
+
+cat command can also be used to add content to a file
+
+touch command only allows us to create files without any content.
+
+If we will attempt to create a file with the same name as another using the cat command, then, we will not be allowed to do that.
